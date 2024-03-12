@@ -1,0 +1,6 @@
+@Highfield.API_HostAddress = http://localhost:5124
+
+GET {{Highfield.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

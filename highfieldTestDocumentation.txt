@@ -1,0 +1,25 @@
+DOCUMENTATION:S
+
+There are two projects:
+1: Highfield.API => asp.netcore api
+2: Highfield.Client => react
+=======
+NB:  Highfield.API need to be running in the background in order to fetch data 
+     from Highfield.Client
+=====
+---
+How to run the Highfield.API: 
+
+a: running the Highfield.API:
+    - open the solution in Visual Studio and click ctrl + f5
+    
+b: or you can open the windows terminal and navigate to Highfield.API and then run the command
+   dotnet run
+
+--
+ONCE THE API IS RUNNING, WE CAN THEN MOVE ON TO THE REACT APP
+
+- open the project using Visual Studio Code. Open the terminal and enter command: npm run start
+
+ 
+         

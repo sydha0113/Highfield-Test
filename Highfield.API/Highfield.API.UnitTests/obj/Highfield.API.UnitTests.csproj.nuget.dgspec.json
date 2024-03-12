@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API.UnitTests\\Highfield.API.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API.UnitTests\\Highfield.API.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API.UnitTests\\Highfield.API.UnitTests.csproj",
+        "projectName": "Highfield.API.UnitTests",
+        "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API.UnitTests\\Highfield.API.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\sydha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sydha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj": {
+                "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "RichardSzalay.MockHttp": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj",
+        "projectName": "Highfield.API",
+        "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj",
+        "packagesPath": "C:\\Users\\sydha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sydha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj": {
+                "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj"
+              },
+              "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj": {
+                "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj",
+        "projectName": "Highfield.Data.DTOs",
+        "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj",
+        "packagesPath": "C:\\Users\\sydha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sydha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj",
+        "projectName": "Highfield.Data.Entities",
+        "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\sydha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sydha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

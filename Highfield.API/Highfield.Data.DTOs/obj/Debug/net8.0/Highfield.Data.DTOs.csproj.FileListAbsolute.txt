@@ -1,0 +1,11 @@
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\bin\Debug\net8.0\Highfield.Data.DTOs.deps.json
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\bin\Debug\net8.0\Highfield.Data.DTOs.dll
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\bin\Debug\net8.0\Highfield.Data.DTOs.pdb
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.AssemblyInfoInputs.cache
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.AssemblyInfo.cs
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.dll
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\refint\Highfield.Data.DTOs.dll
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\Highfield.Data.DTOs.pdb
+C:\Users\sydha\OneDrive\Desktop\HighField\Highfield.API\Highfield.Data.DTOs\obj\Debug\net8.0\ref\Highfield.Data.DTOs.dll

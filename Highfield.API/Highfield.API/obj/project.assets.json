@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Highfield.Data.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Highfield.Data.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Highfield.Data.DTOs.dll": {}
+        }
+      },
+      "Highfield.Data.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Highfield.Data.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Highfield.Data.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Highfield.Data.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../Highfield.Data.DTOs/Highfield.Data.DTOs.csproj",
+      "msbuildProject": "../Highfield.Data.DTOs/Highfield.Data.DTOs.csproj"
+    },
+    "Highfield.Data.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Highfield.Data.Entities/Highfield.Data.Entities.csproj",
+      "msbuildProject": "../Highfield.Data.Entities/Highfield.Data.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Highfield.Data.DTOs >= 1.0.0",
+      "Highfield.Data.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sydha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj",
+      "projectName": "Highfield.API",
+      "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\Highfield.API.csproj",
+      "packagesPath": "C:\\Users\\sydha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sydha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj": {
+              "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.DTOs\\Highfield.Data.DTOs.csproj"
+            },
+            "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj": {
+              "projectPath": "C:\\Users\\sydha\\OneDrive\\Desktop\\HighField\\Highfield.API\\Highfield.Data.Entities\\Highfield.Data.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
